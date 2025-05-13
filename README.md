@@ -25,7 +25,7 @@ This project was built as part of my journey into C# and object-oriented program
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/support-ticket-system-csharp.git
+   git clone https://github.com/SG7504/Ticket-System-C-.git
 ````
 
 2. Open the project in Visual Studio or VS Code.
