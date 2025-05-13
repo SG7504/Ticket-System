@@ -1,8 +1,3 @@
-Sure! Here's the complete **`README.md`** content again, all in one block and ready to copy-paste into your GitHub repo:
-
----
-
-````markdown
 # 🎫 Console-Based Support Ticket System (C#)
 
 A simple yet functional support ticket system built using C#. This console application allows users to create, view, and resolve support tickets — all from a clean and intuitive command-line interface.
